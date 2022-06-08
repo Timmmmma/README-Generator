@@ -1,5 +1,5 @@
-# bbb
-  ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
+# Example
+  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
   
   ## Description 
   ...
@@ -16,11 +16,11 @@
   ## Usage 
   ...
   ## License 
-  ISC
+  Apache
   ## Contributing 
   ...
   ## Tests
   ...
   ## Questions
-  If you have any questions about this projects, please contact my <a href="https://zhentian222@gmail.com">Email</a> or <a href="https://github.com/zhentian">Github</a>.
+  If you have any questions about this projects, please contact my <a href="https://zhentian222@gmail.com">Email</a> or <a href="https://github.com/Timmmmma">Github</a>.
 
